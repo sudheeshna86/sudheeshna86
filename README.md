@@ -59,17 +59,7 @@
 - Budget tracking and expense categorization
 - PostgreSQL with Sequelize ORM
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheeshna86&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshna86&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
 
 ## 🔥 GitHub Contribution Graph
 
