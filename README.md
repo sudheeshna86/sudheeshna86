@@ -63,19 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheeshna86&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshna86&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## 🔥 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheeshna86&theme=tokyo-night" />
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheeshna86&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshna86&layout=compact&theme=tokyonight&hide_border=true" /> </p> --- ## 🔥 GitHub Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheeshna86&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
