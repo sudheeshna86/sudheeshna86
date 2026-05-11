@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matta Sudheeshna</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Problem Solver</h3>
 
 ---
 
