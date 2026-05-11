@@ -1,163 +1,100 @@
-# Hi there 👋 I'm Matta Sudheeshna
-
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
-
-I'm a passionate B.Tech CSE student who loves building scalable web applications and solving challenging problems using Data Structures & Algorithms.
+<h1 align="center">Hi 👋, I'm Matta Sudheeshna</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech CSE Student at **Vignan’s Institute of Information Technology**
-* 💡 Interested in Full Stack Development, Backend Engineering, and System Design
-* 🌱 Currently learning advanced MERN Stack development and cloud technologies
-* 🏆 Strong in Data Structures & Algorithms and problem solving
-* ⚡ Passionate about writing clean, scalable, and maintainable code
+- 🎓 B.Tech CSE Student at Vignan’s Institute of Information Technology
+- 💡 Passionate about Full Stack Development & Problem Solving
+- 🌱 Currently learning advanced backend development and scalable architectures
+- ⚡ Love building real-world web applications using MERN Stack
+- 🚀 Strong in Data Structures & Algorithms
 
 ---
 
-# 💻 Technical Skills
+## 🛠️ Tech Stack
 
-## 🧠 Programming Languages
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
-* C
-* C++
-* Java
-* Python
-* JavaScript
-* SQL
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
 
-## 🎨 Frontend Development
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-* React.js
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
 
-## ⚙️ Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* MVC Architecture
-
-## 🗄️ Databases
-
-* MongoDB
-* PostgreSQL
-* MySQL
-* Firebase Firestore
-
-## 🛠️ Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Figma
-* VS Code
-* Cloudinary
-* Firebase
-* Razorpay
-
-## 📚 Core Computer Science Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Operating Systems
-* Computer Networks
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ♻️ Recycling Verification & Reward System
+### ♻️ Recycling Verification & Reward System
+- QR & GPS based recycling verification platform
+- Built using React.js and Firebase
+- Real-time reward allocation and verification workflows
 
-### Tech Stack: React.js, Firebase, Firestore, Firebase Authentication
+### 🌾 AgriConnect – Farmer Marketplace
+- MERN-based marketplace for Farmers & Buyers
+- JWT Authentication & Role-Based Access Control
+- Razorpay payments and Cloudinary integration
 
-* Developed a QR and GPS based recycling verification platform
-* Implemented secure Firebase Authentication
-* Designed reward allocation and recycling validation workflows
-* Integrated real-time Firebase database operations
-
----
-
-## 🌾 AgriConnect – Farmer Marketplace
-
-### Tech Stack: React.js, Node.js, Express.js, MongoDB, Cloudinary, Razorpay
-
-* Developed a MERN-based marketplace platform for Farmers, Buyers, and Admins
-* Implemented JWT Authentication and Role-Based Access Control (RBAC)
-* Built REST APIs for crop listings, orders, and buyer-farmer interactions
-* Added payment integration, invoice generation, and order tracking
+### 💰 Personal Financial Manager
+- Full-stack finance tracking application
+- Budget tracking and expense categorization
+- PostgreSQL with Sequelize ORM
 
 ---
 
-## 💰 Personal Financial Manager
+## 📊 GitHub Stats
 
-### Tech Stack: React.js, Node.js, Express.js, PostgreSQL, Sequelize ORM
-
-* Built a full-stack finance management application
-* Developed secure authentication and protected routes
-* Added budget tracking and expense categorization features
-* Used PostgreSQL with Sequelize ORM for database management
-
----
-
-# 💼 Experience
-
-## Full Stack Development Intern — Sampath Software Solutions
-
-📍 Visakhapatnam | June 2025 – Sep 2025
-
-* Developed full-stack web application features using React.js, Node.js, and Express.js
-* Built secure REST APIs with JWT authentication
-* Optimized MongoDB queries and backend performance
-* Collaborated in Agile workflows using Git and GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheeshna86&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshna86&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+## 🔥 GitHub Contribution Graph
 
-* ⭐ LeetCode Rating: **1801**
-* ⭐ CodeChef Rating: **1666**
-* ☁️ Completed **100+ Google Cloud Skill Boost Badges**
-* 🥇 OpenAI Academy × NxtWave Buildathon Finalist
-* 🎯 Participated in national-level hackathons including WoW 2025 and IWD’25 by GDG
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheeshna86&theme=tokyo-night" />
+</p>
 
 ---
 
-# 📜 Certifications
+## 🌐 Connect With Me
 
-* Java — NPTEL
-* Python and Web Development — Cisco
-* Deloitte Australia Technology Job Simulation — Forage
+<p>
+  <a href="https://github.com/sudheeshna86">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 
----
+  <a href="https://linkedin.com/in/sudheeshna-matta-3a60a3296">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-# 📊 GitHub Stats
-
-![Sudheeshna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudheeshna86\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheeshna86\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 Coding Profiles
-
-* 💻 LeetCode: [https://leetcode.com/u/sudheeshna_08/](https://leetcode.com/u/sudheeshna_08/)
-* 🍜 CodeChef: [https://www.codechef.com/users/sudheeshna_8](https://www.codechef.com/users/sudheeshna_8)
-* 🔗 LinkedIn: [https://linkedin.com/in/sudheeshna-matta-3a60a3296](https://linkedin.com/in/sudheeshna-matta-3a60a3296)
-* 🐙 GitHub: [https://github.com/sudheeshna86](https://github.com/sudheeshna86)
+  <a href="mailto:sudheehoney2806@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-# 📫 Connect With Me
-
-📧 Email: **[sudheehoney2806@gmail.com](mailto:sudheehoney2806@gmail.com)**
-
----
-
-⭐ *Code • Learn • Build • Repeat*
+<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
